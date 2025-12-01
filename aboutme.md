@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-I am Haoting Zhang, a Postdoctoral Researcher at the National Heart and Lung Institute (NHLI), Imperial College London, mentored by Dennis Wang. I am working on developing machine learning methods for drug discovery, with an emphasis on improving their translational impact in clinical practice.
+I am Haoting Zhang, a Postdoctoral Researcher at the <a href="https://www.imperial.ac.uk/nhli/">National Heart and Lung Institute (NHLI)</a>, Imperial College London, mentored by Dennis Wang. I am working on developing machine learning methods for drug discovery, with an emphasis on improving their translational impact in clinical practice.
 
 Previously, I completed my PhD as part of the 2020 cohort of the <a href="https://www.hdruk.ac.uk/careers-in-health-data-science/further-education/phd-programme">HDR UK–Turing Wellcome PhD Programme in Health Data Science</a>, based at <a href="https://mlatcl.github.io">ML@CL</a> in the <a href="https://www.cst.cam.ac.uk">Department of Computer Science and Technology</a>, University of Cambridge. I was supervised by Carl Henrik Ek, Marta Milo, and Magnus Rattray. Prior to that, I studied Mathematics and Statistics as an undergraduate at St Hilda's College, University of Oxford, followed by a Master’s degree in Machine Learning at UCL.
 
